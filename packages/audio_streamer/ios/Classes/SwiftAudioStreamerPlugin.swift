@@ -6,6 +6,7 @@ public class SwiftAudioStreamerPlugin: NSObject, FlutterPlugin, FlutterStreamHan
 
   private var eventSink: FlutterEventSink?
   var engine = AVAudioEngine()
+  var input = AVAudioEngine().inputNode
   var audioData: [Float] = []
   var recording = false
   var preferredSampleRate: Int? = nil
