@@ -119,3 +119,12 @@ app.*.symbols
 !/dev/ci/**/Gemfile.lock
 packages/app_usage/example/.flutter-plugins-dependencies
 packages/app_usage/example/.flutter-plugins-dependencies
+packages/app_usage/example/.flutter-plugins-dependencies
+packages/app_usage/example/.flutter-plugins-dependencies
+packages/audio_streamer/example/ios/Runner.xcodeproj/project.pbxproj
+packages/audio_streamer/example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme
+packages/notifications/example/.flutter-plugins-dependencies
+packages/notifications/example/ios/Flutter/flutter_export_environment.sh
+packages/pedometer/example/.flutter-plugins-dependencies
+packages/pedometer/example/ios/Flutter/flutter_export_environment.sh
+.gitignore
